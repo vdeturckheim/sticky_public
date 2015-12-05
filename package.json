@@ -1,0 +1,24 @@
+{
+  "name": "sticky_public",
+  "version": "0.0.0",
+  "description": "Public routes for sticky",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab test/api -c -L -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdeturckheim/sticky_public.git"
+  },
+  "author": "Vladimir de Turckheim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdeturckheim/sticky_public/issues"
+  },
+  "homepage": "https://github.com/vdeturckheim/sticky_public#readme",
+  "devDependencies": {
+    "code": "^2.0.1",
+    "glue": "^2.4.0",
+    "lab": "^8.0.0"
+  }
+}
