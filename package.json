@@ -1,6 +1,6 @@
 {
   "name": "sticky_public",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Public routes for sticky",
   "main": "index.js",
   "scripts": {
